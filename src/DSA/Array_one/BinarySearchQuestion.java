@@ -3,7 +3,7 @@ package DSA.Array_one;
 public class BinarySearchQuestion {
     public static void main(String[] args) {
      int arr[] = {2,2,3,4,4,4,6,8,9};
-     int arr2[] = {4,4,8,8,8,15,16,23,23,42};
+     int arr2[] = {4,4,8,8,8,15,16,23,23,42,50};
 //     binarySearch(arr,4,true);
 //     binarySearch(arr,4,false);
 
